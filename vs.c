@@ -3,6 +3,7 @@
 
 int main(){
 
+//This is a comment
 
 char word[100];
 char reverse[100];
